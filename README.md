@@ -1,6 +1,6 @@
 # KitfoxdesignViewTool
 
-> Varous view specific methosf for applications I use.
+> Varous view specific methods for applications I use.
 
 ## Installation
 
